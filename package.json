@@ -6,5 +6,10 @@
     "exports": "./index.js",
     "license": "ISC",
     "type": "module",
-    "bin": "cli.js"
+    "bin": "cli.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dwbinns/http-io.git"
+    },
+    "homepage": "https://github.com/dwbinns/http-io"
 }
