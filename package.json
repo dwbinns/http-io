@@ -1,0 +1,10 @@
+{
+    "name": "@dwbinns/http-io",
+    "version": "1.0.0",
+    "description": "HTTP(s) utility functions",
+    "main": "index.js",
+    "exports": "./index.js",
+    "license": "ISC",
+    "type": "module",
+    "bin": "cli.js"
+}
